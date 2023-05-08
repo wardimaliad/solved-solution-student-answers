@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-solution-student-answers
+<br>
+The result of a true=false exam is given to computer science class have been coded for input to a program. the information available for each student. consists of a student ID and student’s answers to 10 true-false question. The available data as follows:student identification answer string0080 FTTFTFTTFT0340 FTTFTTTTTT0462 TTTTTTTTTT
+
+Design and implement class that reads the student ID and 10 answer String representation as data. The class should check and compare the student’s correct and wrong answers according to a key answers, then determine the student final grade following the rules:correct answers grade9-10 A8 B7 C6 D0-5 FAssume the key answer is ” FFFFFTTFTT”/ write a java program to test the class
